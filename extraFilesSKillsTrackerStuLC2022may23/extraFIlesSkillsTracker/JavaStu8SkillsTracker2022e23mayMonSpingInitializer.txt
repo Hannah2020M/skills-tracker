@@ -1,0 +1,50 @@
+stu8skillstrackerSpringInitializer
+stored in D:RGBL621DEC\techRGBL621dec\KEEPcodeAndLocationInfo\KEEPthisCode\studiosLC101jan2022
+C:\Users\h19sl\Documents\2javaProjects\java-practice\Ch1setupJava\studios\skills-tracker\extraFilesSKillsTrackerStuLC2022may23\extraFIlesSkillsTracker
+https://github.com/Hannah2020M/skills-tracker
+master1 2eD
+
+
+7:07 PM 5/23/2022
+C:\Users\h19sl\Documents\2javaProjects\java-practice\Ch1setupJava\studios
+
+JDK class path
+C:\Users\h19sl\.jdks\corretto-11.0.15
+7:28 PM 5/23/2022
+
+
+Click on gradle on far right top corner (Elephant symbol)
+tasks\application\bootrun
+
+
+==========++++++++++++==============
+
+Project
+Maven ProjectGradle Project
+Language
+JavaKotlinGroovy
+Spring Boot
+3.0.0 (SNAPSHOT)3.0.0 (M3)2.7.1 (SNAPSHOT)2.7.02.6.9 (SNAPSHOT)2.6.8
+Project Metadata
+Group
+org.launchcode
+Artifact
+skills-tracker
+Name
+skills-tracker
+Description
+Demo project for Spring Boot
+Package name
+org.launchcode.skills-tracker
+Packaging
+JarWar
+Java
+1817118
+DependenciesADD ...
+Spring Web WEB
+Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
+Spring Boot DevTools DEVELOPER TOOLS
+Provides fast application restarts, LiveReload, and configurations for enhanced development experience.
+GENERATEEXPLORESHARE...
+
+==========+++++++++++++================
